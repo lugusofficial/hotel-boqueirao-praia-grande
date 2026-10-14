@@ -1,0 +1,294 @@
+{
+ "nome": "Sua Marca",
+ "cidade": "Praia Grande",
+ "tipos": {
+  "individual": {
+   "nome": "Individual e Duplo",
+   "base": 240,
+   "pagina": "individual.html",
+   "hosp": 2,
+   "mar": false
+  },
+  "triplo": {
+   "nome": "Triplo",
+   "base": 310,
+   "pagina": "triplo.html",
+   "hosp": 3,
+   "mar": false
+  },
+  "quadruplo": {
+   "nome": "Quádruplo",
+   "base": 380,
+   "pagina": "quadruplo.html",
+   "hosp": 4,
+   "mar": false
+  }
+ },
+ "andares": [
+  {
+   "numero": 1,
+   "quartos": [
+    {
+     "numero": 101,
+     "tipo": "individual",
+     "posicaoNaFachada": 0,
+     "precoBase": 240,
+     "vista": "cidade",
+     "status": "disponivel"
+    },
+    {
+     "numero": 102,
+     "tipo": "individual",
+     "posicaoNaFachada": 1,
+     "precoBase": 240,
+     "vista": "cidade",
+     "status": "disponivel"
+    },
+    {
+     "numero": 103,
+     "tipo": "individual",
+     "posicaoNaFachada": 2,
+     "precoBase": 240,
+     "vista": "cidade",
+     "status": "disponivel"
+    },
+    {
+     "numero": 104,
+     "tipo": "triplo",
+     "posicaoNaFachada": 3,
+     "precoBase": 310,
+     "vista": "cidade",
+     "status": "disponivel"
+    },
+    {
+     "numero": 105,
+     "tipo": "triplo",
+     "posicaoNaFachada": 4,
+     "precoBase": 310,
+     "vista": "cidade",
+     "status": "disponivel"
+    },
+    {
+     "numero": 106,
+     "tipo": "quadruplo",
+     "posicaoNaFachada": 5,
+     "precoBase": 380,
+     "vista": "cidade",
+     "status": "disponivel"
+    }
+   ]
+  },
+  {
+   "numero": 2,
+   "quartos": [
+    {
+     "numero": 201,
+     "tipo": "individual",
+     "posicaoNaFachada": 0,
+     "precoBase": 240,
+     "vista": "cidade",
+     "status": "disponivel"
+    },
+    {
+     "numero": 202,
+     "tipo": "individual",
+     "posicaoNaFachada": 1,
+     "precoBase": 240,
+     "vista": "cidade",
+     "status": "disponivel"
+    },
+    {
+     "numero": 203,
+     "tipo": "individual",
+     "posicaoNaFachada": 2,
+     "precoBase": 240,
+     "vista": "cidade",
+     "status": "disponivel"
+    },
+    {
+     "numero": 204,
+     "tipo": "triplo",
+     "posicaoNaFachada": 3,
+     "precoBase": 310,
+     "vista": "cidade",
+     "status": "disponivel"
+    },
+    {
+     "numero": 205,
+     "tipo": "triplo",
+     "posicaoNaFachada": 4,
+     "precoBase": 310,
+     "vista": "cidade",
+     "status": "disponivel"
+    },
+    {
+     "numero": 206,
+     "tipo": "quadruplo",
+     "posicaoNaFachada": 5,
+     "precoBase": 380,
+     "vista": "cidade",
+     "status": "disponivel"
+    }
+   ]
+  },
+  {
+   "numero": 3,
+   "quartos": [
+    {
+     "numero": 301,
+     "tipo": "individual",
+     "posicaoNaFachada": 0,
+     "precoBase": 240,
+     "vista": "cidade",
+     "status": "disponivel"
+    },
+    {
+     "numero": 302,
+     "tipo": "individual",
+     "posicaoNaFachada": 1,
+     "precoBase": 240,
+     "vista": "cidade",
+     "status": "disponivel"
+    },
+    {
+     "numero": 303,
+     "tipo": "individual",
+     "posicaoNaFachada": 2,
+     "precoBase": 240,
+     "vista": "cidade",
+     "status": "disponivel"
+    },
+    {
+     "numero": 304,
+     "tipo": "triplo",
+     "posicaoNaFachada": 3,
+     "precoBase": 310,
+     "vista": "cidade",
+     "status": "disponivel"
+    },
+    {
+     "numero": 305,
+     "tipo": "triplo",
+     "posicaoNaFachada": 4,
+     "precoBase": 310,
+     "vista": "cidade",
+     "status": "disponivel"
+    },
+    {
+     "numero": 306,
+     "tipo": "quadruplo",
+     "posicaoNaFachada": 5,
+     "precoBase": 380,
+     "vista": "cidade",
+     "status": "disponivel"
+    }
+   ]
+  },
+  {
+   "numero": 4,
+   "quartos": [
+    {
+     "numero": 401,
+     "tipo": "individual",
+     "posicaoNaFachada": 0,
+     "precoBase": 240,
+     "vista": "cidade",
+     "status": "disponivel"
+    },
+    {
+     "numero": 402,
+     "tipo": "individual",
+     "posicaoNaFachada": 1,
+     "precoBase": 240,
+     "vista": "cidade",
+     "status": "disponivel"
+    },
+    {
+     "numero": 403,
+     "tipo": "individual",
+     "posicaoNaFachada": 2,
+     "precoBase": 240,
+     "vista": "cidade",
+     "status": "disponivel"
+    },
+    {
+     "numero": 404,
+     "tipo": "triplo",
+     "posicaoNaFachada": 3,
+     "precoBase": 310,
+     "vista": "cidade",
+     "status": "disponivel"
+    },
+    {
+     "numero": 405,
+     "tipo": "triplo",
+     "posicaoNaFachada": 4,
+     "precoBase": 310,
+     "vista": "cidade",
+     "status": "disponivel"
+    },
+    {
+     "numero": 406,
+     "tipo": "quadruplo",
+     "posicaoNaFachada": 5,
+     "precoBase": 380,
+     "vista": "cidade",
+     "status": "indisponivel"
+    }
+   ]
+  },
+  {
+   "numero": 5,
+   "quartos": [
+    {
+     "numero": 501,
+     "tipo": "individual",
+     "posicaoNaFachada": 0,
+     "precoBase": 240,
+     "vista": "cidade",
+     "status": "disponivel"
+    },
+    {
+     "numero": 502,
+     "tipo": "individual",
+     "posicaoNaFachada": 1,
+     "precoBase": 240,
+     "vista": "cidade",
+     "status": "disponivel"
+    },
+    {
+     "numero": 503,
+     "tipo": "individual",
+     "posicaoNaFachada": 2,
+     "precoBase": 240,
+     "vista": "cidade",
+     "status": "indisponivel"
+    },
+    {
+     "numero": 504,
+     "tipo": "triplo",
+     "posicaoNaFachada": 3,
+     "precoBase": 310,
+     "vista": "cidade",
+     "status": "disponivel"
+    },
+    {
+     "numero": 505,
+     "tipo": "triplo",
+     "posicaoNaFachada": 4,
+     "precoBase": 310,
+     "vista": "cidade",
+     "status": "disponivel"
+    },
+    {
+     "numero": 506,
+     "tipo": "quadruplo",
+     "posicaoNaFachada": 5,
+     "precoBase": 380,
+     "vista": "cidade",
+     "status": "indisponivel"
+    }
+   ]
+  }
+ ]
+}
